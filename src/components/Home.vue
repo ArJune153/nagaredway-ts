@@ -14,7 +14,7 @@
 
   <div class="video-section"> 
     <video autoplay muted loop playsinline controls style="width: 100%; border-radius: 12px;"> 
-      <source :src="require('@/assets/Game1.mp4')" type="video/mp4" /> 
+      <source :src="require('@/assets/New_York_360p_compressed.mp4')" type="video/mp4" /> 
     </video> 
   </div>
 
